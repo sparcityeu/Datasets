@@ -3,6 +3,9 @@ This repository contains a mirror copy of [The SuiteSparse Matrix Collection](ht
 
 The matrices themselves are under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0).
 
+## List of artefacts
+[This table](list.md) shows the complete list of artefacts in this dataset.
+
 ## References
 
 > Timothy A. Davis and Yifan Hu. 2011. The University of Florida Sparse Matrix Collection. ACM Transactions on Mathematical Software 38, 1, Article 1 (December 2011), 25 pages. DOI: https://doi.org/10.1145/2049662.2049663
